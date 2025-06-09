@@ -1,8 +1,7 @@
-
 EXPECTED_BAKE_TIME = 40  # in minutes
 
 
-#TODO: Remove 'pass' and complete the 'bake_time_remaining()' function below.
+
 def bake_time_remaining(elapsed_bake_time: int) -> int:
     """Calculate the bake time remaining.
 
@@ -43,4 +42,3 @@ def elapsed_time_in_minutes(number_of_layers: int, elapsed_bake_time: int) -> in
     the preparation time and the elapsed baking time.
     """
     return preparation_time_in_minutes(number_of_layers) + elapsed_bake_time
-
