@@ -1,1 +1,1 @@
-Mis ejercicios resueltos en python de [Exercism](https://exercism.org).
+Mis ejercicios resueltos en python de [Exercism](https://exercism.org/profiles/juliord24).
